@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-altair
-joblib
-openai-whisper
-torch
